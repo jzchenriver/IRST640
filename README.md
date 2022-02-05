@@ -1,3 +1,3 @@
-# SIRST_plus
+# SIRSTplus
 Fine-resolution infrared images
 ,coming soon...
